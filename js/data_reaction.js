@@ -22,6 +22,16 @@ data_reaction = [
             "Trigger: specified by your <i>Ready</i> action."
         ]
     },
+       {
+        title: "Uncanny Dodge",
+        icon: "aura",
+        subtitle: "Half damage when hit",
+        description: "Uses a reaction to half damage when hit by a seen enemy",
+        reference: "PHB, pg. 192.",
+        bullets: [
+            "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.",
+        ]
+    },
     {
         title: "Cast a spell",
         icon: "magic-swirl",
