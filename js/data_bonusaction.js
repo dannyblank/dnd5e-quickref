@@ -55,18 +55,7 @@ data_bonusaction = [
             "A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.",
             "Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard."
         ]
-    },
-    {
-        title: "Uncanny Dodge",
-        icon: "aura",
-        subtitle: "Half damage when hit",
-        description: "Uses a reaction to half damage when hit by a seen enemy",
-        reference: "PHB, pg. 192.",
-        bullets: [
-            "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.",
-        ]
-    },
-    
+    },   
     {
         title: "Use class feature",
         icon: "embrassed-energy",
