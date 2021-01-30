@@ -55,7 +55,28 @@ data_bonusaction = [
             "A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.",
             "Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard."
         ]
-    },   
+    },
+     {
+        title: "Steady Aim",
+        icon: "beast-eye",
+        subtitle: "",
+        description: "Bonus action for advantage on attack roll",
+        reference: "PHB, pg. 192.",
+        bullets: [
+          "As a bonus action, you give yourself advantage on your next attack roll on the current turn."
+          "You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn."
+        ]
+    },
+     {
+        title: "Drink Potion",
+        icon: "potion-ball",
+        subtitle: "",
+        description: "The DM is merciful",
+        reference: "The DM's head",
+        bullets: [
+          "You can use a bonus action to drink a potion."
+        ]
+    },
     {
         title: "Use class feature",
         icon: "embrassed-energy",
